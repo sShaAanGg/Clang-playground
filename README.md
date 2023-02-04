@@ -12,3 +12,6 @@ Target: x86_64-unknown-linux-gnu
 Thread model: posix
 InstalledDir: /home/shang/llvm/llvm-project/build/bin
 ```
+
+The result of test and survey can be found at [My Note about LLVM](https://hackmd.io/@sShaAanGg/HJ9xGTyoo)
+

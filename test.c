@@ -3,10 +3,12 @@
 #include <stdint.h>
 
 char *global_str = "This is a string";
+int global_int;
 int foo(int);
 
 int main()
 {
+    int integer = 0;
     char **heap_str = (char **) malloc(sizeof(char) * 100);
     *heap_str = "This is a string in the heap";
     printf("The content of the string in the heap:   %s\n", *heap_str);

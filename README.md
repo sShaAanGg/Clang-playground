@@ -12,6 +12,12 @@ Target: x86_64-unknown-linux-gnu
 Thread model: posix
 InstalledDir: /home/shang/llvm/llvm-project/build/bin
 ```
-
+## Link to the Note
 The result of test and survey can be found at [My Note about LLVM](https://hackmd.io/@sShaAanGg/HJ9xGTyoo)
+
+## Source Code to Test
+[Source code](https://github.com/sShaAanGg/Clang-playground/blob/main/test.c)
+
+## The Output LLVM Program
+[The emitted LLVM program](https://github.com/sShaAanGg/Clang-playground/blob/main/test.ll)
 
